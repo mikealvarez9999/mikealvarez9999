@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm just starting my coding journey and excited to learn more along the way. Here’s a little about me:
 
 ## 🚀 About Me
-- 🎓 I’m a first-year undergraduate student at Independent University, Bangladesh (IUB).
+- 🎓 I’m a first-year undergraduate student at [Independent University, Bangladesh (IUB)](https://iub.ac.bd).
 - 🏁 I’m a beginner with no prior coding experience.
 - 🐍 I've started learning Python and exploring basic concepts.
 - 🌱 Looking forward to expanding my knowledge in programming and develop a career someday!
